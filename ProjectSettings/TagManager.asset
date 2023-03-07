@@ -7,6 +7,9 @@ TagManager:
   - Core
   - Enemy
   - Resource
+  - Resource1
+  - Resource2
+  - Resource3
   layers:
   - Default
   - TransparentFX
